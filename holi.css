@@ -47,6 +47,17 @@ h1 {
             background-color: #4D5656;
         }
 
+.Encabezados {
+background-color: #95A5A6;
+ text-align: center;  
+} 
+
+.Encabezados p {
+color:  #4D5656;
+font-size: 20px;
+letterespace: 5px;
+}
+
 /* Estilo para la galería de imágenes */
 
           .galeria {
@@ -70,4 +81,4 @@ h1 {
         .imagen:hover {
             transform: scale(1.1);
 			transition:all 0.5s ease-out; border-radius:60px;
-        }
+		}
