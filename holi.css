@@ -1,0 +1,70 @@
+body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+			background-color:#FFFFFF;
+        }
+
+h2 {
+		 font-size: 25px;
+		 color: #;
+		 font-family: "";
+	 }
+
+h1 {
+		 font-size: 25px;
+		 color: #;
+		 font-family: "";
+	 }
+	 
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color:#;
+			font-family: "";
+            text-align: center; 
+        }
+
+        li {
+            display: inline-block; 
+            float: none;
+        }
+
+        li a {
+            display: block;
+            color: ;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        li a:hover {
+            background-color: #;
+        }
+
+/* Estilo para la galería de imágenes */
+
+          .galeria {
+            text-align: center;
+			   padding: 10px 20px;
+        }
+
+        .imagen {
+            display: inline-block;
+            margin: 10px;
+			
+            overflow: hidden;
+            max-width: 200px; /* Ancho máximo para las imágenes */
+        }
+
+        .imagen img {
+            width: 100%;
+            height: auto;
+        }
+
+        .imagen:hover {
+            transform: scale(1.1);
+			transition:all 0.5s ease-out; border-radius:60px;
+        }
