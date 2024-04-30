@@ -9,14 +9,14 @@ body {
 
 h2 {
 		 font-size: 25px;
-		 color: #;
+		 color:#0E6251;
 		 font-family: ""Playfair Display", serif;
 	 }
 
 h1 {
 		 font-size: 25px;
-		 color: #;
-		 font-family: "";
+		 color: #0E6251;
+		 font-family: "Jacquard 12 Charted", system-ui;
 	 }
 	 
 
@@ -25,7 +25,7 @@ h1 {
             margin: 0;
             padding: 0;
             overflow: hidden;
-            background-color: 
+            background-color: #17A589;
 			font-family: "Jacquard 12 Charted", system-ui;
             text-align: center; 
         }
@@ -37,14 +37,14 @@ h1 {
 
         li a {
             display: block;
-            color: ;
+            color: #0E6251;
             text-align: center;
             padding: 14px 16px;
             text-decoration: none;
         }
 
         li a:hover {
-            background-color: #;
+            background-color: #17A589;
         }
 
 /* Estilo para la galería de imágenes */
