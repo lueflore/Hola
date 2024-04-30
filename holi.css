@@ -15,7 +15,7 @@ h2 {
 
 h1 {
 		 font-size: 25px;
-		 color: #0E6251;
+		 color: #283747;
 		 font-family: "Jacquard 12 Charted", system-ui;
 	 }
 	 
@@ -25,7 +25,7 @@ h1 {
             margin: 0;
             padding: 0;
             overflow: hidden;
-            background-color: #17A589;
+            background-color: #95A5A6;
 			font-family: "Jacquard 12 Charted", system-ui;
             text-align: center; 
         }
@@ -44,7 +44,7 @@ h1 {
         }
 
         li a:hover {
-            background-color: #17A589;
+            background-color: #4D5656;
         }
 
 /* Estilo para la galería de imágenes */
